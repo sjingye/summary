@@ -1,16 +1,15 @@
 /*
  * @Author: sjingye
  * @Date: 2020-10-25 19:29:34
- * @LastEditTime: 2020-10-25 23:06:29
+ * @LastEditTime: 2020-10-26 19:44:19
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /summary/src/index.js
  */
 import React from "react";
 import ReactDOM from "react-dom";
-import { Switch, BrowserRouter } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 import Routers from './routers'
-import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 
 function App() {
